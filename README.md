@@ -1,5 +1,6 @@
  # HMS: A Hierarchical Solver with Dependency-Enhanced Understanding for Math Word Problem
 Source code for paper *HMS: A Hierarchical Solver with Dependency-Enhanced Understanding for Math Word Problem*.
+The source code for paper "Learning Relation-Enhanced Hierarchical Solver for Math Word Problems" is coming soon.
 
  ## Dependencies
 - python >= 3.6
