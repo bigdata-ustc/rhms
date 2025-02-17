@@ -22,7 +22,7 @@ For running arguments, please refer to [src/rhms/config.py](src/rhms/config.py).
  ## Citation
 If you find our work helpful, please consider citing our paper.
 ```
-@article{lin2023learning,
+@article{lin2024learning,
   title={Learning Relation-Enhanced Hierarchical Solver for Math Word Problems},
   author={Lin, Xin and Huang, Zhenya and Zhao, Hongke and Chen, Enhong and Liu, Qi and Lian, Defu and Li, Xin and Wang, Hao},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
